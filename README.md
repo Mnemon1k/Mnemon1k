@@ -2,11 +2,9 @@
 
 I am [@mnemon1k_](https://www.instagram.com/mnemon1k_) aka **Alex** from 💙💛
 
+🌱 I’m currently learning **Java** backend.<br/> ⚡ Have quite a lot of **JavaScript** and **React** experience.<br/>
 
-🌱 I’m currently learning **Java** backend.
-⚡ Have quite a lot of **JavaScript** and **React** experience.
-
-📫 Contacts: [LinkedIn](https://www.linkedin.com/in/mnemon1k/)  or mnemon11k1@gmail.com
+📫 Contacts: [LinkedIn](https://www.linkedin.com/in/mnemon1k/) **or** mnemon11k1@gmail.com
 
 <!--
 **Mnemon1k/Mnemon1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
