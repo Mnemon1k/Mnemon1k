@@ -1,6 +1,8 @@
 ## Hi there ✌
 
-I am [@mnemon1k_](https://www.instagram.com/mnemon1k_) aka **Alex** from 💙💛
+<p align='center'>
+  I am [@mnemon1k_](https://www.instagram.com/mnemon1k_) aka **Alex** from 💙💛
+</p>
 
 <p align='center'>
    <a href="https://t.me/mnemon1k" target="_blank">
