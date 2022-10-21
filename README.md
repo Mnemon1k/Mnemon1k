@@ -1,7 +1,7 @@
 ## Hi there ✌
 
 <p align='center'>
-  I am [@mnemon1k_](https://www.instagram.com/mnemon1k_) aka **Alex** from 💙💛
+  I am <a href="https://www.instagram.com/mnemon1k_">@mnemon1k_</a> aka **Alex** from 💙💛
 </p>
 
 <p align='center'>
