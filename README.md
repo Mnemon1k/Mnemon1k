@@ -6,6 +6,14 @@
 
 🌱 I’m currently learning **Java** backend.<br/> ⚡ Have quite a lot of **JavaScript** and **React** experience.<br/>
 
+
+## 🛠 Technical Stack
+*   Java, JavaScript
+*   React, Redux, Redux-toolkit, React router 6
+*   PostgreSQL, MongoDB
+*   Spring Framework, Spring Boot, Spring Data
+
+
 📫 Contacts:  mnemon11k1@gmail.com
 
 <p>
