@@ -11,7 +11,7 @@
 *   Java, JavaScript
 *   React, Redux, Redux-toolkit, React router 6
 *   PostgreSQL, MongoDB
-*   Spring Framework, Spring Boot, Spring Data
+*   Spring Framework, Spring Boot, Data, Security
 
 
 ## 🛠 Contacts
