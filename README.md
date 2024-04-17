@@ -4,8 +4,6 @@
   I am <a href="https://www.instagram.com/mnemon1k_">@mnemon1k_</a> aka <b>Alex</b> from 💙💛
 </p>
 
-🌱 I’m currently learning **Java** backend.<br/> ⚡ Have quite a lot of **JavaScript** and **React** experience.<br/>
-
 
 ## 🛠 Technical Stack
 *   Java, JavaScript
