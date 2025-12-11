@@ -1,13 +1,13 @@
 ## Hi there ✌
 
 <p>
-  I am <a href="https://www.instagram.com/mnemon1k_">@mnemon1k_</a> aka <b>Alex</b> from 💙💛
+  I am <a href="https://www.instagram.com/mnemon1k_">@mnemon1k_</a> aka <b>Alex</b>
 </p>
 
 
 ## 🛠 Technical Stack
-*   Java, JavaScript
-*   React, Redux, Redux-toolkit, React router 6
+*   JavaScript, Java
+*   React, Next, Redux, Redux-toolkit, React Query, Zustand
 *   PostgreSQL, MongoDB
 *   Spring Framework, Spring Boot, Data, Security
 
